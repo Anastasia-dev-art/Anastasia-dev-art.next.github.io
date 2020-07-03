@@ -1,0 +1,17 @@
+.next{
+    font-size: 250px;
+    color: white;
+    width: 435px;
+    position: absolute;
+    right: 0;
+    line-height: 1;
+    font-weight: bold;
+    letter-spacing: 20px;
+    top: 50%;
+    margin-top: -230px;
+    text-shadow: 20px 20px 0 rgba($color: #430453, $alpha: 0.2);
+
+    span{
+        color:  rgb(83, 13, 74);
+    }
+}

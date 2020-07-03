@@ -1,0 +1,9 @@
+.header{
+    background: linear-gradient(to top left, rgb(70, 75, 128), rgb(79, 71, 129), rgb(88, 67, 131), rgb(98, 62, 132), rgb(107, 58, 134), rgb(116, 54, 135), rgb(126, 58, 126), rgb(136, 62, 116), rgb(146, 67, 107), rgb(156, 71, 98), rgb(166, 75, 88), rgb(176, 79, 79));
+    height: 100vh;
+    box-shadow: 0 40px 100px rgba($color: #3b0128, $alpha: 0.4);
+}
+
+.header .container{
+    height: 100vh;
+}

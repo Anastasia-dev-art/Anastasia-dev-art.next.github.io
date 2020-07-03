@@ -1,0 +1,32 @@
+.footer{
+    background-color: rgba($color: #e0bfd550, $alpha: 0.3);
+    color: rgba($color: #c70a88, $alpha: 1.0);
+    padding: 160px 0;
+}
+
+.logo-footer{
+    background-color: rgb(85, 40, 62);
+    color: white;
+    transition: all 0.2s linear;
+    position: relative;
+    top: auto;
+
+    &:hover{
+        background-color: white;
+        color:rgb(85, 40, 62);
+    }
+}
+
+.footer__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__credits{
+    color: rgb(85, 40, 62);
+}
+
+.up{
+    font-size: 26px;
+}
